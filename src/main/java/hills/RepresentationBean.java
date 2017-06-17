@@ -1,4 +1,4 @@
-package com.crx;
+package hills;
 
 import javax.faces.bean.ManagedBean;
 import javax.inject.Inject;

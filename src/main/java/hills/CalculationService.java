@@ -1,4 +1,4 @@
-package com.crx;
+package hills;
 
 import javax.ejb.Stateless;
 import java.util.ArrayList;

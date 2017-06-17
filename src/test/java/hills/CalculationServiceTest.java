@@ -1,4 +1,4 @@
-package com.crx;
+package hills;
 
 import org.junit.Assert;
 import org.junit.Test;
