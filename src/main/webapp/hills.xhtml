@@ -1,0 +1,9 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:jsf="http://xmlns.jcp.org/jsf">
+<body>
+Result of calculation: #{representationBean.result}
+<form jsf:id="form">
+    <input type="text" jsf:value="#{representationBean.hillsInput}"/>
+    <input type="submit" value="Calculate" jsf:action="#{representationBean.proceedCalculation}"/>
+</form>
+</body>
+</html>
